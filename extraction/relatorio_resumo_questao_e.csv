@@ -1,0 +1,15 @@
+tipo,status,quantidade
+CSV,inconsistente,440
+cpf,inválido,9249
+cpf,válido,85
+data,identificado,22106
+data_hora,identificado,22106
+email,inválido,3229
+email,válido,12973
+horario,identificado,22106
+nome_proprio,identificado,18750
+telefone,inválido,9875
+telefone,válido,3300
+url,inválido,334
+url,válido,2603
+valor_monetario,identificado,7618
